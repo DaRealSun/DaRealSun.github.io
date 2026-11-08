@@ -1,0 +1,4 @@
+baseURL = 'https://DaRealSun.github.io/'
+locale = 'en-US'
+title = 'CSC 640 — Software Quality Notebook'
+disableKinds = ['taxonomy', 'term', 'RSS']
