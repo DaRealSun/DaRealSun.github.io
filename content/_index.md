@@ -4,8 +4,8 @@ title: 'Building software that is safe to change'
 
 This notebook follows a Campus Equipment Loan API from a raw PHP/MySQL baseline to a Laravel implementation. The goal is to explain how process, design, and automation help manage complexity under time and resource constraints.
 
-**Current status: HW1 planning.** No API has been implemented and no API acceptance results exist yet. The report will grow through dated, substantive revisions.
- 
+**Current status: HW1 and HW4 Part 1 preparation.** The business APIs are not implemented yet. The report will grow through dated, substantive revisions.
+
 **November 8 update:** the NGINX/PHP/MySQL readiness check passes, and the shared API acceptance runner records an honest 0/44 baseline against the unimplemented routes. See [the dated preparation report](progress/2026-11-08/) for evidence and the Stage 1 plan.
 
 ## Start here
